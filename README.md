@@ -7,7 +7,7 @@ This program is used to activate Windows 10 and Office 2021
 Download the files from the release folder(https://github.com/SneakyAssasin01/WIndows-Activation-Tools/Releases). Extract the files and run the following command replacing $user% with your username. 
 
 ```
-cd C:\Users\$user$\Downloads\MIcrosoft-Activation-Scripts-master\MIcrosoft-Activation-Scripts-master\MAS_1.4\All-In-One-Version
+cd C:\Users\$user$\Downloads\WIndows-Activation-Scripts\MAS_1.4\All-In-One-Version
 MAS_1.4_AIO_CRC32_9A7B5B05.cmd
 ```
 
